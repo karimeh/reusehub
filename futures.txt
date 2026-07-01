@@ -73,4 +73,4 @@ Here’s a structured, professional feature breakdown for your Django second-han
 - Review or rating system for sellers (optional)
 - Location-based listing browsing (optional geo feature)
 
- 
+ Ability to select a location on the map and set a geographic position.
